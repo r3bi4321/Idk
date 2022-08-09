@@ -1,8 +1,8 @@
 # Idk
 
-Ich weiss **nd** was ich söll schriebe
+Das ist ein *Test*.
 
-Wenn ich die schuel überlebe isch das es *wunder*.
+Ich bin **langsam** gut vertraut mit dieser Website.
 
 [Formel 1] (https://www.formel1.de/)
 
@@ -13,3 +13,4 @@ Wenn ich die schuel überlebe isch das es *wunder*.
 | --- | --- |
 | Content 1 | Content 2 | 
 
+`Ich mag Hunde`
