@@ -4,7 +4,7 @@ Das ist ein *Test*.
 
 Ich bin **langsam** gut vertraut mit dieser Website.
 
-[Formel 1] (https://www.formel1.de/)
+[Formel 1](https://www.formel1.de/)
 
 ![Max Verstappen](https://nieuwsredactie.fhj.nl/wp-content/uploads/2017/09/Max_Verstappen_2016_Malaysia_FP3.jpg)
 
